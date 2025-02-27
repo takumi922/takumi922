@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @takumi922
+- 👀 I’m interested in AIを活用したプログラミング、コーディング、そして新たな技術の探求
+- 🌱 I’m currently learning 効率的なプロンプト作成や最新のAI技術の応用
+- 💞️ I’m looking to collaborate on オープンソースプロジェクトや革新的なコーディングチャレンジ
+- 📫 How to reach me: GitHubのIssueやSNS（リンクは後ほど追加）で連絡ください
+- 😄 Pronouns: 彼 / 彼
+- ⚡ Fun fact: 独自のアプローチで技術を追求中！
